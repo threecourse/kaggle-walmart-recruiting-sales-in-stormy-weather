@@ -7,8 +7,8 @@ R, python, vowpal wabbit, the data from kaggle
 
 ### Setup
 
-put codes 
-put the data from Kaggle in data/ directory
+put codes  
+put the data from kaggle in data/ directory
 
 ### Usage
 
